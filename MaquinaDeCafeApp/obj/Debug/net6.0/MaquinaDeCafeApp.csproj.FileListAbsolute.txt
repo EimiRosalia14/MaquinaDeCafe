@@ -1,0 +1,14 @@
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\bin\Debug\net6.0\MaquinaDeCafeApp.exe
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\bin\Debug\net6.0\MaquinaDeCafeApp.deps.json
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\bin\Debug\net6.0\MaquinaDeCafeApp.runtimeconfig.json
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\bin\Debug\net6.0\MaquinaDeCafeApp.dll
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\bin\Debug\net6.0\MaquinaDeCafeApp.pdb
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.dll
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\refint\MaquinaDeCafeApp.dll
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.pdb
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\MaquinaDeCafeApp.genruntimeconfig.cache
+C:\Users\DAVID\source\repos\MaquinaDeCafeApp\MaquinaDeCafeApp\obj\Debug\net6.0\ref\MaquinaDeCafeApp.dll
