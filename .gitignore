@@ -1,0 +1,15 @@
+# Excluir el directorio .vs (Visual Studio)
+.vs/
+
+# Excluir directorios y archivos de compilación
+bin/
+obj/
+
+# Excluir archivos de configuración de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Excluir archivos de paquetes de NuGet
+*.nupkg
