@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaquinaDeCafeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+451624f603eaf9e5783b76163002ae62f47cfbd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaquinaDeCafeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaquinaDeCafeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

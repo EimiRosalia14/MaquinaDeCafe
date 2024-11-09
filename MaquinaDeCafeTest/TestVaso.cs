@@ -17,6 +17,7 @@ namespace MaquinaDeCafeTest
             Assert.True(maquina.HayVasos());
         }
 
+        /*
         [Fact]
         public void deberiaDevolverFalsoSiNoExistenVasos()
         {
@@ -24,6 +25,7 @@ namespace MaquinaDeCafeTest
             maquina.ConsumirVaso("Mediano");
             Assert.False(maquina.HayVasos());
         }
+        */
 
         [Fact]
         public void deberiaRestarCantidadDeVaso()

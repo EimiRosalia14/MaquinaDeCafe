@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj",
+      "projectUniqueName": "C:\\Users\\DAVID\\Source\\Repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj",
       "projectName": "MaquinaDeCafeApp",
-      "projectPath": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj",
+      "projectPath": "C:\\Users\\DAVID\\Source\\Repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj",
       "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\obj\\",
+      "outputPath": "C:\\Users\\DAVID\\Source\\Repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

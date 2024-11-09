@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\",
+  "WorkspaceRootPath": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafeapp\\maquinadecafeapp\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE53F7B1-B688-4874-8C9C-ED3B2EA02308}|MaquinaDeCafeTest\\MaquinaDeCafeTest.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafetest\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE53F7B1-B688-4874-8C9C-ED3B2EA02308}|MaquinaDeCafeTest\\MaquinaDeCafeTest.csproj|solutionrelative:maquinadecafetest\\testvaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE53F7B1-B688-4874-8C9C-ED3B2EA02308}|MaquinaDeCafeTest\\MaquinaDeCafeTest.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafetest\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE53F7B1-B688-4874-8C9C-ED3B2EA02308}|MaquinaDeCafeTest\\MaquinaDeCafeTest.csproj|solutionrelative:maquinadecafetest\\testmaquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafeapp\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|solutionrelative:maquinadecafeapp\\azucarero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafeapp\\maquinadecafeapp\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafeapp\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|solutionrelative:maquinadecafeapp\\cafetera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafeapp\\maquinadecafeapp\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafeapp\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|solutionrelative:maquinadecafeapp\\maquinadecafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafeapp\\maquinadecafeapp\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafeapp\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|solutionrelative:maquinadecafeapp\\resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafeapp\\maquinadecafeapp\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|c:\\users\\david\\source\\repos\\maquinadecafe\\maquinadecafeapp\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C2630C44-BD47-4137-A922-7D2AE2874BD8}|MaquinaDeCafeApp\\MaquinaDeCafeApp.csproj|solutionrelative:maquinadecafeapp\\vaso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,67 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestVaso.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeTest\\TestVaso.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafeTest\\TestVaso.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeTest\\TestVaso.cs",
+              "RelativeToolTip": "MaquinaDeCafeTest\\TestVaso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:58:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestMaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeTest\\TestMaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafeTest\\TestMaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeTest\\TestMaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaDeCafeTest\\TestMaquinaDeCafe.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAADwv10AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T02:58:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Azucarero.cs",
-              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Azucarero.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Azucarero.cs",
               "RelativeDocumentMoniker": "MaquinaDeCafeApp\\Azucarero.cs",
-              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Azucarero.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Azucarero.cs",
               "RelativeToolTip": "MaquinaDeCafeApp\\Azucarero.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T02:22:39.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Cafetera.cs",
-              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Cafetera.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Cafetera.cs",
               "RelativeDocumentMoniker": "MaquinaDeCafeApp\\Cafetera.cs",
-              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Cafetera.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Cafetera.cs",
               "RelativeToolTip": "MaquinaDeCafeApp\\Cafetera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:22:36.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MaquinaDeCafe.cs",
-              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\MaquinaDeCafe.cs",
-              "RelativeDocumentMoniker": "MaquinaDeCafeApp\\MaquinaDeCafe.cs",
-              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\MaquinaDeCafe.cs",
-              "RelativeToolTip": "MaquinaDeCafeApp\\MaquinaDeCafe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:22:32.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resultado.cs",
-              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Resultado.cs",
-              "RelativeDocumentMoniker": "MaquinaDeCafeApp\\Resultado.cs",
-              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Resultado.cs",
-              "RelativeToolTip": "MaquinaDeCafeApp\\Resultado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:22:23.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:22:36.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MaquinaDeCafe.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\MaquinaDeCafe.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafeApp\\MaquinaDeCafe.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\MaquinaDeCafe.cs",
+              "RelativeToolTip": "MaquinaDeCafeApp\\MaquinaDeCafe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:22:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resultado.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Resultado.cs",
+              "RelativeDocumentMoniker": "MaquinaDeCafeApp\\Resultado.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Resultado.cs",
+              "RelativeToolTip": "MaquinaDeCafeApp\\Resultado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:22:23.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Vaso.cs",
-              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Vaso.cs",
+              "DocumentMoniker": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Vaso.cs",
               "RelativeDocumentMoniker": "MaquinaDeCafeApp\\Vaso.cs",
-              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafeApp\\MaquinaDeCafeApp\\Vaso.cs",
+              "ToolTip": "C:\\Users\\DAVID\\source\\repos\\MaquinaDeCafe\\MaquinaDeCafeApp\\Vaso.cs",
               "RelativeToolTip": "MaquinaDeCafeApp\\Vaso.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:22:18.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:22:18.671Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
